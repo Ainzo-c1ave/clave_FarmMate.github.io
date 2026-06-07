@@ -1,0 +1,37 @@
+C:\Users\Sahara\Desktop\Desktop\LCLAVE\STI shts here\FarmMate1\FarmMate1\bin\Debug\FarmMate1.exe.config
+C:\Users\Sahara\Desktop\Desktop\LCLAVE\STI shts here\FarmMate1\FarmMate1\bin\Debug\FarmMate1.exe
+C:\Users\Sahara\Desktop\Desktop\LCLAVE\STI shts here\FarmMate1\FarmMate1\bin\Debug\FarmMate1.pdb
+C:\Users\Sahara\Desktop\Desktop\LCLAVE\STI shts here\FarmMate1\FarmMate1\obj\Debug\FarmMate1.csproj.AssemblyReference.cache
+C:\Users\Sahara\Desktop\Desktop\LCLAVE\STI shts here\FarmMate1\FarmMate1\obj\Debug\FarmMate1.frmMainMenu.resources
+C:\Users\Sahara\Desktop\Desktop\LCLAVE\STI shts here\FarmMate1\FarmMate1\obj\Debug\FarmMate1.Properties.Resources.resources
+C:\Users\Sahara\Desktop\Desktop\LCLAVE\STI shts here\FarmMate1\FarmMate1\obj\Debug\FarmMate1.csproj.GenerateResource.cache
+C:\Users\Sahara\Desktop\Desktop\LCLAVE\STI shts here\FarmMate1\FarmMate1\obj\Debug\FarmMate1.csproj.CoreCompileInputs.cache
+C:\Users\Sahara\Desktop\Desktop\LCLAVE\STI shts here\FarmMate1\FarmMate1\obj\Debug\FarmMate1.exe
+C:\Users\Sahara\Desktop\Desktop\LCLAVE\STI shts here\FarmMate1\FarmMate1\obj\Debug\FarmMate1.pdb
+C:\Users\Sahara\Desktop\Desktop\LCLAVE\STI shts here\FarmMate1\FarmMate1\obj\Debug\FarmMate1.Forms.FormFacilities.resources
+C:\Users\Sahara\Desktop\Desktop\LCLAVE\STI shts here\FarmMate1\FarmMate1\obj\Debug\FarmMate1.Forms.FormLiveStocks.resources
+C:\Users\Sahara\Desktop\Desktop\LCLAVE\STI shts here\FarmMate1\FarmMate1\obj\Debug\FarmMate1.Forms.FormSettings.resources
+C:\Users\Sahara\Desktop\Desktop\LCLAVE\STI shts here\FarmMate1\FarmMate1\obj\Debug\FarmMate1.Forms.frmCrops.resources
+C:\Users\Sahara\Desktop\Desktop\LCLAVE\STI shts here\FarmMate1\FarmMate1\obj\Debug\FarmMate1.UserCtrl_AnimalPnl.resources
+C:\Users\Sahara\Desktop\Desktop\LCLAVE\STI shts here\FarmMate1\FarmMate1\obj\Debug\FarmMate1.Forms.FormEquipmentAndMachineries.resources
+C:\Users\Sahara\Desktop\Desktop\LCLAVE\STI shts here\FarmMate1\FarmMate1\obj\Debug\FarmMate1.Forms.frmFinanceAndSales.resources
+C:\Users\Sahara\Desktop\Desktop\LCLAVE\STI shts here\FarmMate1\FarmMate1\obj\Debug\FarmMate1.Forms.frmInventoryAndSupplies.resources
+C:\Enzo\FarmMate\FarmMate1\FarmMate1\bin\Debug\FarmMate1.exe.config
+C:\Enzo\FarmMate\FarmMate1\FarmMate1\bin\Debug\FarmMate1.exe
+C:\Enzo\FarmMate\FarmMate1\FarmMate1\bin\Debug\FarmMate1.pdb
+C:\Enzo\FarmMate\FarmMate1\FarmMate1\obj\Debug\FarmMate1.csproj.AssemblyReference.cache
+C:\Enzo\FarmMate\FarmMate1\FarmMate1\obj\Debug\FarmMate1.exe.config
+C:\Enzo\FarmMate\FarmMate1\FarmMate1\obj\Debug\FarmMate1.Forms.FormEquipmentAndMachineries.resources
+C:\Enzo\FarmMate\FarmMate1\FarmMate1\obj\Debug\FarmMate1.Forms.FormFacilities.resources
+C:\Enzo\FarmMate\FarmMate1\FarmMate1\obj\Debug\FarmMate1.Forms.FormLiveStocks.resources
+C:\Enzo\FarmMate\FarmMate1\FarmMate1\obj\Debug\FarmMate1.Forms.FormSettings.resources
+C:\Enzo\FarmMate\FarmMate1\FarmMate1\obj\Debug\FarmMate1.Forms.frmCrops.resources
+C:\Enzo\FarmMate\FarmMate1\FarmMate1\obj\Debug\FarmMate1.Forms.frmFinanceAndSales.resources
+C:\Enzo\FarmMate\FarmMate1\FarmMate1\obj\Debug\FarmMate1.Forms.frmInventoryAndSupplies.resources
+C:\Enzo\FarmMate\FarmMate1\FarmMate1\obj\Debug\FarmMate1.frmMainMenu.resources
+C:\Enzo\FarmMate\FarmMate1\FarmMate1\obj\Debug\FarmMate1.Properties.Resources.resources
+C:\Enzo\FarmMate\FarmMate1\FarmMate1\obj\Debug\FarmMate1.UserCtrl_AnimalPnl.resources
+C:\Enzo\FarmMate\FarmMate1\FarmMate1\obj\Debug\FarmMate1.csproj.GenerateResource.cache
+C:\Enzo\FarmMate\FarmMate1\FarmMate1\obj\Debug\FarmMate1.csproj.CoreCompileInputs.cache
+C:\Enzo\FarmMate\FarmMate1\FarmMate1\obj\Debug\FarmMate1.exe
+C:\Enzo\FarmMate\FarmMate1\FarmMate1\obj\Debug\FarmMate1.pdb
